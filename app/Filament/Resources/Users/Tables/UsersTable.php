@@ -44,7 +44,7 @@ class UsersTable
                     DeleteAction::make(),
                     ViewAction::make(),
                     CreateAction::make(),
-                    
+
                 ])
             ])
             ->toolbarActions([
